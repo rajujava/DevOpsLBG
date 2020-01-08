@@ -2,6 +2,6 @@ public class Hello
  {
     public static void main(String args[])
      {
-      System.out.println("Welcome to LBG");
+      System.out.println("Welcome to LBG DevOps session");
       }
  }     
